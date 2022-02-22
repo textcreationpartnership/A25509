@@ -1,0 +1,148 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Answer of the deputie lieutenants of the countie of Devon to the declaration of Sir Ralph Hopton and other his trayterous adherents that have lately in an hostile manner invaded the said countie and plundered and pillaged many of the inhabitants thereof</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25509</idno>
+            <idno type="STC">Wing A3293</idno>
+            <idno type="STC">ESTC R15255</idno>
+            <idno type="EEBO-CITATION">11925417</idno>
+            <idno type="OCLC">ocm 11925417</idno>
+            <idno type="VID">51007</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25509)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 51007)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 48:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Answer of the deputie lieutenants of the countie of Devon to the declaration of Sir Ralph Hopton and other his trayterous adherents that have lately in an hostile manner invaded the said countie and plundered and pillaged many of the inhabitants thereof</title>
+               </titleStmt>
+               <extent>5 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by R. Olton and G. Dexter for Henry Overton and are to be sold at his shop ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hopton, Ralph Hopton, --  Baron, 1598-1652.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:51007:1"/>
+            <pb facs="tcp:51007:1"/>
+            <p>THE ANSWER OF THE Deputie Lieutenants OF THE Countie of DEVON.</p>
+            <p>TO THE DECLARATION of Sir RALPH HOPTON and other his trayterous Adherents that have lately in an hoſtile manner invaded the ſaid <hi>Countie,</hi> and plundered, and pillaged many of the Inhabitants thereof.</p>
+            <figure/>
+            <figure/>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>R. Olton</hi> and <hi>G. Dexter,</hi> for <hi>Henry Overton,</hi> and are to be ſold at his Shop in <hi>Popes head Alley.</hi> MDCXLII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:51007:2"/>
+            <pb n="1" facs="tcp:51007:2"/>
+            <head>THE ANSVVERE OF The Deputy Lieutenants of the <hi>County</hi> of <hi>Devon.</hi> to the Declaration of Sir RALRH HOPTON and other his traiterous Adherents, that have lately in an hoſtile manner inva<g ref="char:EOLhyphen"/>ded the ſaid County, and plundered, and pillaged many of the Inha<g ref="char:EOLhyphen"/>bitants thereof.</head>
+            <head type="sub">In the Preſence and feare of Almighty <hi>GOD</hi> the ſearcher of all Hearts, and judge of all Men, Wee thus declare.</head>
+            <p n="1">1. <seg rend="decorInit">T</seg>Hat wee never did, nor ever will take Armes, but in all true Loyalty to his Ma<g ref="char:EOLhyphen"/>jeſtie, the Defence of the eſtabliſhed Re<g ref="char:EOLhyphen"/>ligion, his Majeſties juſt Prerogative, and the Liberties of the Engliſh Subject, in the Rights of <hi>Parliament.</hi>
+            </p>
+            <p n="2">2. That the occaſion of this Warre is given by thoſe that by injurious calumniation, and falſe ſurmiſes of the <hi>Parliaments</hi> intention to leſſen, or abate his Majeſties Royall Prerogative for the future, have withdrawn his Majeſties perſon and affection from that his great Counſell.</p>
+            <pb n="2" facs="tcp:51007:3"/>
+            <p n="3">3. That the Perſons of all the Lord Lieutenants were approved by his Majeſtie; that moſt of theſe Lords and their Deputies were formerly imploy'd in the ſaid Service.</p>
+            <p>That the Warre in <hi>Sommerſetſhire</hi> was begun up<g ref="char:EOLhyphen"/>on thoſe that were peaceably marching to a Muſter in the ordinary way.</p>
+            <p n="4">4. That ſome of thoſe that were perſecuted for rai<g ref="char:EOLhyphen"/>ſing that Warre, were the men that infeſted <hi>Cornwall</hi> and now <hi>Devonſhire</hi> with violence and oppreſſion.</p>
+            <p n="5">5. That the Sheriffes raiſing of the power of the County is unjuſt, becauſe the Muſters by authority of <hi>Parliament</hi> are no unlawfull Aſſemblies.</p>
+            <p n="6">6. That the Commiſſion of <hi>Array</hi> is illegall, becauſe ſo declared in <hi>Parliament,</hi> after it had beene preſented and petitioned againſt as a grievance, by ſome Coun<g ref="char:EOLhyphen"/>ties, amongſt the reſt this of <hi>Devonſhire,</hi> becauſe it is in many points oppoſite to the Liberty of the Subject, and cannot be executed with equity.</p>
+            <p n="7">7. That the Commiſſion of <hi>Array,</hi> and the Sheriffes power now put in execution againſt the <hi>Parliaments</hi> proceedings, are breaches of the <hi>Peace,</hi> and deſtructive to the Kingdome, in raiſing a Civill Warre within it; and to Religion, by hindring the ſuppreſſion of the Rebellion in <hi>Ireland,</hi> and by inciting the Papiſts to joyne with the <hi>Array</hi> Forces in <hi>England.</hi>
+            </p>
+            <p n="8">8. That all thoſe that take Armes againſt the <hi>Parlia<g ref="char:EOLhyphen"/>ment,</hi> and their Defenders, doe falſifie their Poteſtati<g ref="char:EOLhyphen"/>on generally taken, and doe cauſe a breach of his Ma<g ref="char:EOLhyphen"/>jeſties promiſe, and as we believe his gracious intenti<g ref="char:EOLhyphen"/>on, not to make Warre againſt his Parliament.</p>
+            <p n="9">9. That no Subject can truely keepe his Oath of Al<g ref="char:EOLhyphen"/>legiance, that doth not keep his Proteſtation, the Oath
+<pb n="3" facs="tcp:51007:3"/>of Allegiance being made to the King as his Liege or lawfull Lord.</p>
+            <p n="10">10. That ſuch as make Warre upon the <hi>Parliament,</hi> doe what in them lies to deſtroy all <hi>Parliaments,</hi> and conſequently to change the goverment of the King<g ref="char:EOLhyphen"/>dome by Statute Lawes, and Courts of Juſtice, into an Arbitrary Goverment, which is no leſſe then Trea<g ref="char:EOLhyphen"/>ſon.</p>
+            <p>Theſe grounds thus laid, being infallibly true, and ſince the perſon of his ſacred Majeſty is as it were made Captive to the wills of thoſe that for private ends and their impunity for Capitall offences, keep his Majeſty from his great Councell: And ſince theſe Cavaliers that have fallen into Cornewall and now into Devon<g ref="char:EOLhyphen"/>ſhire, are of the ſame party and deſigne.</p>
+            <p>We can do no leſſe then forewarne all his Majeſties loving Subjects, not only of the illegallity of their pro<g ref="char:EOLhyphen"/>ceedings, but alſo of the dangerous and inevitable evill conſequently falling upon this Kingdom, if they ſhould prevaile. And to invite all ſuch as love his Majeſty, and deſire to maintaine the hearty affection of his peo<g ref="char:EOLhyphen"/>ple towards him and his poſterity, not to be allured by their perſwaſions and inſinuations of their loyalty, and our Rebellion, or by their threats of death, our deſtru<g ref="char:EOLhyphen"/>ction, to be terrified from their duties to God, the King, and the publique weale, but to ſtand firme for the holy truth which they have profeſſed in all loyalty, as they have proteſted, not ſparing their Purſes or their paines, or the hazard of their lives for the defence thereof.</p>
+            <p>And whereas divers of the good Subjects of this Country have been lately ſeduced through feare to obey their unlawfull and pernitious commands,
+<pb n="4" facs="tcp:51007:4"/>though they cannot but ſee them tending to their own ruine, we do invite them to returne to their firſt pro<g ref="char:EOLhyphen"/>feſſed Allegiance and duty to the King and Parlia<g ref="char:EOLhyphen"/>ment, and we ſhall be ready to imbrace them in the Armes of Chriſtian Love and friendſhip, and be their Mediators to the Parliament for their full reconcilia<g ref="char:EOLhyphen"/>tion, if we finde it to be done ſpeedily and really.</p>
+            <p>And whereas great ſcandall hath been taken, and many feares put into the people minds, that our Troupers and Dragoneers are Authorized to plunder and take away the goods of the Inhabitants of this County, we deſire that all men ſhould hereby know, that no Trouper or other Souldier, ever had any other Authority then to ſecure the perſons of noted oppo<g ref="char:EOLhyphen"/>ſites or to ſecure the Arms and Horſes for War, of ſuch as would turne them againſt us, or cannot keep them from the adverſe partie, for all other goods which have or may be taken in that manner, we diſavow the giving of any ſuch Authority, and will do our beſt to puniſh all ſuch as ſhall be found Delinquents in that kinde.</p>
+            <trailer>FINIS</trailer>
+            <pb facs="tcp:51007:4"/>
+         </div>
+      </body>
+   </text>
+</TEI>
